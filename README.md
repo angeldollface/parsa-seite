@@ -8,7 +8,6 @@
 
 Dieses Repository enthält den Quellcode für die offizielle Website von Parsa Salvatian Web Solutions.
 
-
 ## NOTE :scroll:
 
 - Parsa Salvatian Web Solutions by Parsa Salvatian
