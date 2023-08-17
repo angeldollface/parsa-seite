@@ -1,0 +1,19 @@
+{
+    "title": "Parsa Salvatian - Web Developer",
+    "description": "Parsa Salvatian - Web Developer: Hochwertige Webdesign Services ",
+    "prod_url": "/parsa-seite",
+    "dev_url": "",
+    "keywords": "static-site-generator mandy rust template liquid open-source mit-license",
+    "closingText": "Close",
+    "menuText": "Menu",
+    "updateFreq": "weekly",
+    "tlDomain": "https://angeldollface.art",
+    "copyFiles": "true=>assets",
+    "logo": "https://images.unsplash.com/photo-1531891437562-4301cf35b7e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+    "motto": "Funktionale, wunderschöne, maßgeschneidertes Web Design.",
+    "footerText": "Parsa Salvatian Web Solutions (C) Parsa Salvatian 2023 ",
+    "hasLoopContent": "true",
+    "loopContentDirs": "products",
+    "readMeText": "Read",
+    "mandyIcon": "https://angeldollface.art/doll-cdn/images/mandy/mandy-icon-white.svg"
+}

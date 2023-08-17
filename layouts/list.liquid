@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+ {% include 'head' %}
+ <body>
+  {% include 'nav' %}
+  {% include 'header' %}
+  {% include 'landing' %}
+  {% for item in loop_content["products"] %}
+   <div class="portfolio_item">
+    <img class="product_image" src="{{ item.productImage }}"/>
+    <div class="product_description">
+     <h2 class="product_description">{{ item.title }}</h2>
+     <p class="product_description">{{ item.description }}</p>
+     <button class="product_description" onclick="window.location.href='{{ site.baseurl }}{{ item.url }}'">
+      {{ site.readMeText }}
+     </button>
+    </div>
+   </div>
+  {% endfor %}
+  {% include 'footer' %}
+  {% include 'scripts' %}
+ </body>
+</html>
